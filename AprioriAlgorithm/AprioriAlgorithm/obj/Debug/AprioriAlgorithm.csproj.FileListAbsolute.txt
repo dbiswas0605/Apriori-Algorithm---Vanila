@@ -1,0 +1,20 @@
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\Sample Data\categories.txt
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.exe.config
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.exe
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\AprioriAlgorithm.pdb
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.AccessControl.dll
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.Permissions.dll
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.Principal.Windows.dll
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.AccessControl.xml
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.Permissions.xml
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\System.Security.Principal.Windows.xml
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csproj.CoreCompileInputs.cache
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csproj.CopyComplete
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.exe
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.pdb
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\Sample Data\categories_Sample.txt
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\Output1\patterns.txt
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\bin\Debug\Output2\patterns.txt
+F:\Developer\MCS-DS\AprioriAlgorithm\AprioriAlgorithm\obj\Debug\AprioriAlgorithm.csprojAssemblyReference.cache
